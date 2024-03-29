@@ -2,7 +2,6 @@
 Android VPN app based on OpenVPN library.</br>
 
 ## License
-**Free Software!**
 
 This project and the uses VPN library "ICS OpenVPN" both are under GPLv2 License.
 
